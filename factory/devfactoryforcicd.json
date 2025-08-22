@@ -1,0 +1,9 @@
+{
+	"name": "devfactoryforcicd",
+	"location": "centralus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "b1849a2c-86ae-410d-910e-790df74c1dc9",
+		"tenantId": "d21db916-0f29-4cc6-87ba-ca23382042e9"
+	}
+}
