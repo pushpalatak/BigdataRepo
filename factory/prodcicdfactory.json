@@ -1,0 +1,9 @@
+{
+	"name": "prodcicdfactory",
+	"location": "centralus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "e74af2d1-cbad-46f2-9b45-d0c0348843a6",
+		"tenantId": "d21db916-0f29-4cc6-87ba-ca23382042e9"
+	}
+}
